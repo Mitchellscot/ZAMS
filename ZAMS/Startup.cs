@@ -22,19 +22,21 @@ namespace ZAMS
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             // enable below for in memory testing
-            //services.AddSingleton<IApplicantData, InMemoryApplicantData>();
+
+            services.AddSingleton<IApplicantData, InMemoryApplicantData>();
 
             //enable below for sql server
-            services.AddScoped<IApplicantData, SqlApplicantData>();
-            services.AddDbContextPool<ApplicantDbContext>(options => { options.UseSqlServer(Configuration.GetConnectionString("ZMSDb")); });
+
+            //services.AddScoped<IApplicantData, SqlApplicantData>();
+            //services.AddDbContextPool<ApplicantDbContext>(options => { options.UseSqlServer(Configuration.GetConnectionString("ZMSDb")); });
+
+
             services.AddRazorPages();
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
