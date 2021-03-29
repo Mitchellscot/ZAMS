@@ -10,3 +10,15 @@ C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.csproj.Core
 C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.dll
 C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ref\ZAMS.Domain.dll
 C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.pdb
+G:\onedrive\projects\zams\ZAMS.Domain\bin\Debug\net5.0\ZAMS.Domain.deps.json
+G:\onedrive\projects\zams\ZAMS.Domain\bin\Debug\net5.0\ZAMS.Domain.dll
+G:\onedrive\projects\zams\ZAMS.Domain\bin\Debug\net5.0\ref\ZAMS.Domain.dll
+G:\onedrive\projects\zams\ZAMS.Domain\bin\Debug\net5.0\ZAMS.Domain.pdb
+G:\onedrive\projects\zams\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.csprojAssemblyReference.cache
+G:\onedrive\projects\zams\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\projects\zams\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.AssemblyInfoInputs.cache
+G:\onedrive\projects\zams\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.AssemblyInfo.cs
+G:\onedrive\projects\zams\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.csproj.CoreCompileInputs.cache
+G:\onedrive\projects\zams\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.dll
+G:\onedrive\projects\zams\ZAMS.Domain\obj\Debug\net5.0\ref\ZAMS.Domain.dll
+G:\onedrive\projects\zams\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.pdb

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj",
+      "projectUniqueName": "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj",
       "projectName": "ZAMS.Domain",
-      "projectPath": "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj",
+      "projectPath": "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj",
       "packagesPath": "C:\\Users\\Mitch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Domain\\obj\\",
+      "outputPath": "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -7,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ZAMS.Data;
 using ZAMS.Data.Applicants;
 
 namespace ZAMS
@@ -24,11 +26,11 @@ namespace ZAMS
         public void ConfigureServices(IServiceCollection services)
         {
             // enable below for in memory testing
-             services.AddSingleton<IApplicantData, InMemoryApplicantData>();
+            //services.AddSingleton<IApplicantData, InMemoryApplicantData>();
 
             //enable below for sql server
-            //services.AddScoped<IApplicantData, SqlApplicantData>();
-            //services.AddDbContextPool<ApplicantDbContext>(options => { options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")); });
+            services.AddScoped<IApplicantData, SqlApplicantData>();
+            services.AddDbContextPool<ApplicantDbContext>(options => { options.UseSqlServer(Configuration.GetConnectionString("ZMSDb")); });
             services.AddRazorPages();
         }
 

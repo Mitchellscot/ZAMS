@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Data\\ZAMS.Data.csproj": {}
+    "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Data\\ZAMS.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Data\\ZAMS.Data.csproj": {
+    "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Data\\ZAMS.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Data\\ZAMS.Data.csproj",
+        "projectUniqueName": "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Data\\ZAMS.Data.csproj",
         "projectName": "ZAMS.Data",
-        "projectPath": "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Data\\ZAMS.Data.csproj",
+        "projectPath": "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Data\\ZAMS.Data.csproj",
         "packagesPath": "C:\\Users\\Mitch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Data\\obj\\",
+        "outputPath": "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj"
+              "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj": {
+                "projectPath": "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj": {
+    "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj",
+        "projectUniqueName": "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj",
         "projectName": "ZAMS.Domain",
-        "projectPath": "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj",
+        "projectPath": "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Domain\\ZAMS.Domain.csproj",
         "packagesPath": "C:\\Users\\Mitch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mitch\\Desktop\\ZAMS\\ZAMS.Domain\\obj\\",
+        "outputPath": "G:\\OneDrive\\Projects\\ZAMS\\ZAMS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
