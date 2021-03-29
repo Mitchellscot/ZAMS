@@ -1,0 +1,12 @@
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\bin\Debug\net5.0\ZAMS.Domain.deps.json
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\bin\Debug\net5.0\ZAMS.Domain.dll
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\bin\Debug\net5.0\ref\ZAMS.Domain.dll
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\bin\Debug\net5.0\ZAMS.Domain.pdb
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.csprojAssemblyReference.cache
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.AssemblyInfo.cs
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.dll
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ref\ZAMS.Domain.dll
+C:\Users\Mitch\Desktop\ZAMS\ZAMS.Domain\obj\Debug\net5.0\ZAMS.Domain.pdb

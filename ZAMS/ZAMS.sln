@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZAMS", "ZAMS.csproj", "{28406215-6A07-40D3-8B8C-F030FCBBD5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZAMS.Data", "..\ZAMS.Data\ZAMS.Data.csproj", "{7786DE24-D4C1-4373-882E-C05B59827A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZAMS.Domain", "..\ZAMS.Domain\ZAMS.Domain.csproj", "{C7E4F60B-17C6-4CD2-BC23-EF4EC77F435A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28406215-6A07-40D3-8B8C-F030FCBBD5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28406215-6A07-40D3-8B8C-F030FCBBD5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28406215-6A07-40D3-8B8C-F030FCBBD5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28406215-6A07-40D3-8B8C-F030FCBBD5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7786DE24-D4C1-4373-882E-C05B59827A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7786DE24-D4C1-4373-882E-C05B59827A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7786DE24-D4C1-4373-882E-C05B59827A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7786DE24-D4C1-4373-882E-C05B59827A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E4F60B-17C6-4CD2-BC23-EF4EC77F435A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E4F60B-17C6-4CD2-BC23-EF4EC77F435A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E4F60B-17C6-4CD2-BC23-EF4EC77F435A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E4F60B-17C6-4CD2-BC23-EF4EC77F435A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F5B57F3-F70A-4035-B552-833F54664619}
+	EndGlobalSection
+EndGlobal
