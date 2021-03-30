@@ -40,9 +40,9 @@ The database connection settings are set up to use an instance of MSSql localdb.
 
 If you want to access the data from a SQL 
 1. Install Entity Framework and SQL Server
-2. change to the directory zams/zams
-3. Open the project in VS Code and go to the Startup.cs file. Uncomment out the lines below the comment "enable for sql server"
-4. comment out the code blow "enable for in-memory testing"
+2. Open the project in VS Code and go to the Startup.cs file. Uncomment out the lines below the comment "enable for sql server"
+3. comment out the code blow "enable for in-memory testing"
+4. Change to the /zams/zams directory
 5. Run `dotnet ef migrations add initialcreate -s ../zams/zams.csproj` in your terminal. the -s indicates that the target project is in another folder.
 6. Run `dotnet ef database update -s ..\odetofood\odetofood.csproj` to create the database.
 7. If you are having trouble you might need to add <GenerateRuntimeConfigurationFiles>True</GenerateRuntimeConfigurationFiles> to the csproj file
