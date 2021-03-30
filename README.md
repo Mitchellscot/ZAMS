@@ -18,7 +18,7 @@ between February and June. So it's a simple way to manage applicants and all the
 
 [Applicant Details View](https://i.ibb.co/SJRs49V/applicant-details.png)
 
-### Prerequisites
+## Prerequisites
 
 - [Dot Net 5](https://dotnet.microsoft.com/download/dotnet/5.0)
 - [Entity Framework](https://docs.microsoft.com/en-us/ef/core/get-started/overview/install)
